@@ -11,6 +11,7 @@
 
 ## Sobre 
 Nosso projeto se resume a resolver o problema 1112 da plataforma UVa de juizes online utilizando o algoritmo de Djikstra.
+![Tentativas](/img/miceandmaze.jpeg)
 
 ## Screenshots
 ![Funcionamento1](/img/Interface1.png)
