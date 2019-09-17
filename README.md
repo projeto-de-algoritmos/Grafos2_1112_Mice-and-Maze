@@ -20,10 +20,12 @@ Nosso projeto se resume a resolver o problema 1112 da plataforma UVa de juizes o
 ## Instalação 
 **Linguagem**: C++
 
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
-Para rodar o programa somente é necessário o g++, caso não possua instale por meio do comando:
+Para compilar o programa somente é necessário o g++, caso não possua instale por meio do comando:
 ```
 sudo apt-get install g++
 ```
-
+Para rodar o programa use:
+```
+./a.out
+```
 
