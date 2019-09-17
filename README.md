@@ -26,6 +26,7 @@ sudo apt-get install g++
 ```
 Para rodar o programa use:
 ```
+g++ Djikstra.cpp
 ./a.out
 ```
 
